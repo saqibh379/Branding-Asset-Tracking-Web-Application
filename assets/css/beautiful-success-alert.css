@@ -1,0 +1,14 @@
+.beautiful.alert {
+  border-width: 1px;
+  background-image: none;
+  border-color: transparent;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.alert.alert-success.beautiful {
+  background-color: #abe7ed;
+  border-color: #abe7ed;
+  color: #27a4b0;
+}
+
